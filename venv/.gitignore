@@ -1,6 +1,8 @@
 __pycache__/
 *.py
 venv/
+/Lib/site-packages/
+/Scripts/
+/share/
 # Created by venv; see https://docs.python.org/3/library/venv.html
-
 

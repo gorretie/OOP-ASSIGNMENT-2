@@ -1,0 +1,15 @@
+{
+  "results": [
+    {
+      "id": 2935022,
+      "name": "Dresden",
+      "latitude": 51.0504,
+      "longitude": 13.7373,
+      "country": "Germany",
+      "country_code": "DE",
+      "admin1": "Saxony",
+      "timezone": "Europe/Berlin"
+    }
+  ],
+  "generationtime_ms": 0.12
+}
